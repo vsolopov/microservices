@@ -2,6 +2,7 @@ HELP.md
 target/
 !**/src/main/**/target/
 !**/src/test/**/target/
+twitter4j.properties
 
 ### STS ###
 .apt_generated
